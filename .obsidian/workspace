@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "語法/addAction.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "語法/addAction.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,10 +105,10 @@
   },
   "active": "b5454acee493696c",
   "lastOpenFiles": [
+    "README.md",
     "語法/addAction.md",
     "addAction.md",
     "Datapass by delegate.md",
-    "README.md",
     "未命名.md",
     "Reference Cycle.md",
     "Pasted image 20210922103307.png",

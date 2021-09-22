@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Datapass by delegate.md",
+            "file": "語法/addAction.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datapass by delegate.md",
+                "file": "語法/addAction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "b5454acee493696c",
   "lastOpenFiles": [
+    "語法/addAction.md",
+    "addAction.md",
     "Datapass by delegate.md",
+    "README.md",
     "未命名.md",
     "Reference Cycle.md",
     "Pasted image 20210922103307.png",
     "DataPass/instantiateViewController.md",
     "DataPass/prepare.md",
-    "DataPass/UserDefault.md",
-    "DataPass/概述.md",
-    "DataPass/利用Struct傳值.md",
-    "DataPass/資料傳遞 Segue.md"
+    "DataPass/UserDefault.md"
   ]
 }

@@ -1,0 +1,1 @@
+https://medium.com/彼得潘的-swift-ios-app-開發問題解答集/開發-firebase-cloud-firestore-的-ios-app-fe38d6ad70a7

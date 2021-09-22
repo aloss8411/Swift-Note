@@ -1,0 +1,1 @@
+DispatchQueue.main.async {} ->讓程式在main.thread執行

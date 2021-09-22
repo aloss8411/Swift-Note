@@ -1,0 +1,119 @@
+{
+  "main": {
+    "id": "f2c20e1dada9adde",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5454acee493696c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Datapass by delegate.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "167c724f46486eae",
+    "type": "split",
+    "children": [
+      {
+        "id": "20db69ff31d4de27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "274e377427867dcc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c669e00d3f0a917c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "addc",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 232.5
+  },
+  "right": {
+    "id": "2abdc68ee3d48912",
+    "type": "split",
+    "children": [
+      {
+        "id": "5aaecb34701117a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dc972397a7725c3",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "4e92426244902391",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "05194f52858cde85",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Datapass by delegate.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 338.5,
+    "collapsed": true
+  },
+  "active": "b5454acee493696c",
+  "lastOpenFiles": [
+    "Datapass by delegate.md",
+    "未命名.md",
+    "Reference Cycle.md",
+    "Pasted image 20210922103307.png",
+    "DataPass/instantiateViewController.md",
+    "DataPass/prepare.md",
+    "DataPass/UserDefault.md",
+    "DataPass/概述.md",
+    "DataPass/利用Struct傳值.md",
+    "DataPass/資料傳遞 Segue.md"
+  ]
+}

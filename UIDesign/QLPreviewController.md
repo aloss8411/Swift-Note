@@ -1,0 +1,1 @@
+QLPreviewController 可以預覽 pdf，word，圖片等檔案，不過必須找 data source 幫忙，透過protocol QLPreviewControllerDataSource 的 function numberOfPreviewItems(in:) & previewController(_:previewItemAt:) 設定顯示的內容

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "DataPass/資料傳遞 Segue.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "addc",
+                "query": "segue",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "DataPass/資料傳遞 Segue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +106,7 @@
   },
   "active": "b5454acee493696c",
   "lastOpenFiles": [
+    "DataPass/資料傳遞 Segue.md",
     "README.md",
     "語法/addAction.md",
     "addAction.md",
@@ -113,7 +115,6 @@
     "Reference Cycle.md",
     "Pasted image 20210922103307.png",
     "DataPass/instantiateViewController.md",
-    "DataPass/prepare.md",
-    "DataPass/UserDefault.md"
+    "DataPass/prepare.md"
   ]
 }

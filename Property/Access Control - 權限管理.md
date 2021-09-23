@@ -1,3 +1,6 @@
+權限管理
+
+
 在 Swift 中可分為 5 個層級。層級最高到最低依次為 open / public / internal / file-private / private。層級最高表示限制最少，反之表示限制最多。  
 1.open：  
 只用於 class 宣告以及 class 內所有的成員宣告。所有 module 和 source file 都可取得，可讓繼承者繼承此 class 和 override 此 class 內的 method。  

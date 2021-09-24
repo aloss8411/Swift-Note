@@ -1,13 +1,16 @@
 ![[Pasted image 20210922103307.png]]
 
-建立Protocol ->讓使用上有著更多地彈性
 
-protocol SelectAnimalViewControllerDelegate {}  
-class SelectAnimalViewController: UIViewController {  
-      
-var delegate: SelectAnimalViewControllerDelegate?
+具體方式：如上圖
+在特定頁面建立Protocol，並設計Protocol所需要遵循的func，利用Extension將func內容定義清楚。
+此func -> 定義該做什麼，此處為傳遞資料使用，亦可進行其他的操作
 
-
+//此處為將代理權轉給另一個ViewController，讓下一個ViewController能夠操作（Ex:傳遞資料)
+[@IBSegueAction]func showSelectAnimal(_ coder: NSCoder) -> SelectAnimalViewController? {  
+let selectAnimalViewController = SelectAnimalViewController(coder: coder)  
+**selectAnimalViewController?.delegate = self  
+**return selectAnimalViewController  
+}
 
 
 

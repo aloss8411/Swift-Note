@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Property/Access Control - 權限管理.md",
+            "file": "DataPass/Datapass by delegate.md",
             "mode": "source"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Property/Access Control - 權限管理.md",
+                "file": "DataPass/Datapass by delegate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +105,15 @@
   },
   "active": "b5454acee493696c",
   "lastOpenFiles": [
+    "DataPass/Datapass by delegate.md",
+    "DataPass/Navigation Controller.md",
+    "DataPass/prepare.md",
+    "DataPass/UserDefault.md",
+    "README.md",
     "Property/Access Control - 權限管理.md",
     "Property/Access Control.md",
     "DataPass/資料傳遞 Segue.md",
-    "README.md",
     "語法/addAction.md",
-    "addAction.md",
-    "Datapass by delegate.md",
-    "未命名.md",
-    "Reference Cycle.md",
-    "Pasted image 20210922103307.png"
+    "addAction.md"
   ]
 }

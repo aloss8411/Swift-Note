@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "convert",
+                "query": "mo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,

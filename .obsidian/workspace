@@ -104,6 +104,7 @@
   },
   "active": "b5454acee493696c",
   "lastOpenFiles": [
+    "Internet概述.md",
     "未命名.md",
     "internet/Internet相關 1.md",
     "internet/Internet相關.md",
@@ -112,7 +113,6 @@
     "UIDesign/UITableView.md",
     "internet/JSONDecoder.md",
     "DataPass/Datapass by delegate.md",
-    "DataPass/Navigation Controller.md",
-    "DataPass/prepare.md"
+    "DataPass/Navigation Controller.md"
   ]
 }

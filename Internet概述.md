@@ -1,0 +1,4 @@
+我們使用URLSession.shard.dataTask進行資料的下載及抓取（會先用postman進行測試），接著使用JSONDecoder將資料導入我們設定好的自訂型別當中。
+
+Notice：沒辦法一次性的抓取所有的資料，所以在網址處會因應不同的需求來抓取相對的目標
+Ex：當需要列表時則抓取

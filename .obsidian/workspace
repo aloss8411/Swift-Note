@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Internet概述.md",
+            "file": "概念/Initializer.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "optional",
+                "query": "initi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Internet概述.md",
+                "file": "概念/Initializer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +105,8 @@
   },
   "active": "b5454acee493696c",
   "lastOpenFiles": [
+    "概念/Initializer.md",
+    "概念/Class vs Struct.md",
     "Internet概述.md",
     "未命名.md",
     "internet/Internet相關 1.md",
@@ -111,8 +114,6 @@
     "internet/JSON.md",
     "語法/Optional Binding.md",
     "UIDesign/UITableView.md",
-    "internet/JSONDecoder.md",
-    "DataPass/Datapass by delegate.md",
-    "DataPass/Navigation Controller.md"
+    "internet/JSONDecoder.md"
   ]
 }

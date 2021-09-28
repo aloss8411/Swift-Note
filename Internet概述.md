@@ -6,3 +6,9 @@ Notice：可以一次性的抓取所有的資料或者是因應不同需求分�
 
 Ex:![[Pasted image 20210927145530.png]]
 
+若要依照不同的API URL抓取JSON則利用baseurl來進行開發，待研究
+
+https://medium.com/彼得潘的-swift-ios-app-開發問題解答集/使用-baseurl-urlcomponents-urlqueryitem-產生-url-1e4539a33a89
+
+
+

@@ -8,4 +8,4 @@ MVC 雖然在理論上不錯，但它在 iOS 和 Xcode 的背景下通常無法�
 
 MVVM -> Model , View , ViewModel
 
-我敢打賭，Model-View-ViewModel (MVVM) 設計模式與 MVC 的_意圖_差不多，MVVM 比 MVC 模型多添加了一個組件，稱為 ViewModel（視圖模型），它可以是 `class` 或 `struct`，但通常會是一個 class，因此可以在程式碼中傳遞同一個物件的 reference，而 ViewModel 就位於視圖控制器和模型之間。
+Model-View-ViewModel (MVVM) 設計模式與 MVC 的_意圖_差不多，MVVM 比 MVC 模型多添加了一個組件，稱為 ViewModel（視圖模型），它可以是 `class` 或 `struct`，但通常會是一個 class，因此可以在程式碼中傳遞同一個物件的 reference，而 ViewModel 就位於視圖控制器和模型之間。

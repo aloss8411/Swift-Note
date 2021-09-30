@@ -104,6 +104,7 @@
   },
   "active": "b5454acee493696c",
   "lastOpenFiles": [
+    "UIEdgeInsets.md",
     "未命名.md",
     "Internet概述.md",
     "Type/Value type vs Reference type.md",
@@ -112,7 +113,6 @@
     "internet/Internet相關 1.md",
     "internet/Internet相關.md",
     "internet/JSON.md",
-    "語法/Optional Binding.md",
-    "UIDesign/UITableView.md"
+    "語法/Optional Binding.md"
   ]
 }

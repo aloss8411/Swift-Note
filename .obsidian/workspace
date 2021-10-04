@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DataPass/Data Pass 概述.md",
+            "file": "Cocoapods.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "prese",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataPass/Data Pass 概述.md",
+                "file": "Cocoapods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +104,15 @@
   },
   "active": "b5454acee493696c",
   "lastOpenFiles": [
-    "DataPass/Data Pass 概述.md",
+    "未命名.md",
     "UIDesign/*提示框 UIAlertController.md",
+    "DataPass/資料傳遞 Segue.md",
+    "DataPass/Data Pass 概述.md",
     "UIDesign/UIBezierPath.md",
     "UIDesign/UIBezier（形狀） , CAGardient（漸層）,CAShapelayer(線條組成圖案) , mask(遮罩).md",
     "DataPass/Datapass by delegate.md",
     "DataPass/instantiateViewController.md",
     "DataPass/prepare.md",
-    "DataPass/UserDefault.md",
-    "未命名.md",
-    "Xib.md"
+    "DataPass/UserDefault.md"
   ]
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DataPass/Datapass by delegate.md",
+            "file": "UIDesign/UIBezierPath.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "initi",
+                "query": "path",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataPass/Datapass by delegate.md",
+                "file": "UIDesign/UIBezierPath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +105,8 @@
   },
   "active": "b5454acee493696c",
   "lastOpenFiles": [
+    "UIDesign/UIBezierPath.md",
+    "UIDesign/UIBezier（形狀） , CAGardient（漸層）,CAShapelayer(線條組成圖案) , mask(遮罩).md",
     "DataPass/Datapass by delegate.md",
     "DataPass/instantiateViewController.md",
     "DataPass/prepare.md",
@@ -111,8 +114,6 @@
     "未命名.md",
     "Xib.md",
     "UIEdgeInsets.md",
-    "Internet概述.md",
-    "Type/Value type vs Reference type.md",
-    "概念/Initializer.md"
+    "Internet概述.md"
   ]
 }

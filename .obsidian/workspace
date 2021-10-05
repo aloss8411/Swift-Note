@@ -7,8 +7,11 @@
         "id": "b5454acee493696c",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Data Save/UserDefault property.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "struct",
+                "query": "init",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data Save/UserDefault property.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +104,15 @@
   },
   "active": "b5454acee493696c",
   "lastOpenFiles": [
+    "Data Save/UserDefault property.md",
+    "Data Save/Plist.md",
+    "概念/Initializer.md",
+    "概念/Class vs Struct.md",
     "internet/Download Data.md",
+    "internet/JSON.md",
+    "internet/JSONDecoder.md",
     "internet/Dispatch.md",
     "internet/curl.md",
-    "internet/URLSeisson , URLRequest.md",
-    "internet/URLcomponents,URLQueryitem.md",
-    "internet/Thread.md",
-    "internet/JSONDecoder.md",
-    "internet/JSON.md",
-    "*WebSocket.md",
-    "Cocoapods.md"
+    "internet/URLSeisson , URLRequest.md"
   ]
 }

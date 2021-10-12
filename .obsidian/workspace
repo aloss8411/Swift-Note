@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "解析JSON資料.md",
+            "file": "DataPass/利用Struct傳值.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "init",
+                "query": "protocol",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "解析JSON資料.md",
+                "file": "DataPass/利用Struct傳值.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "44d64478c8ea624b",
   "lastOpenFiles": [
+    "DataPass/利用Struct傳值.md",
+    "DataPass/Datapass by delegate.md",
+    "DataPass/資料傳遞 Segue.md",
     "解析JSON資料.md",
     "Internet概述.md",
     "README.md",
     "Pasted image 20211012114227.png",
     "解析JSON資料檔.md",
     "PageChange/dissmiss.md",
-    "Example Photo/Pasted image 20210927145530.png",
-    "未命名.md",
-    "internet/上傳資料.md",
-    "internet/*WebSocket.md"
+    "Example Photo/Pasted image 20210927145530.png"
   ]
 }

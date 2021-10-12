@@ -7,8 +7,11 @@
         "id": "44d64478c8ea624b",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "解析JSON資料.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "解析JSON資料.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +109,15 @@
   },
   "active": "44d64478c8ea624b",
   "lastOpenFiles": [
-    "Untitled Kanban.md",
+    "解析JSON資料.md",
     "Internet概述.md",
     "README.md",
-    "UIDesign/Xib.md",
-    "實作方法/Side Menu.md",
-    "Data Save/Plist.md",
-    "Data Save/DataBase比較.md",
-    "Data Save/UserDefault property.md",
-    "概念/Initializer.md",
-    "概念/Class vs Struct.md"
+    "Pasted image 20211012114227.png",
+    "解析JSON資料檔.md",
+    "PageChange/dissmiss.md",
+    "Example Photo/Pasted image 20210927145530.png",
+    "未命名.md",
+    "internet/上傳資料.md",
+    "internet/*WebSocket.md"
   ]
 }

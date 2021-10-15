@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "DataPass/資料傳遞 Segue.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "DataPass/資料傳遞 Segue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "44d64478c8ea624b",
   "lastOpenFiles": [
+    "DataPass/資料傳遞 Segue.md",
+    "DataPass/Data Pass 概述.md",
+    "DataPass/Datapass by delegate.md",
+    "DataPass/instantiateViewController.md",
+    "DataPass/Navigation Controller.md",
+    "DataPass/prepare.md",
+    "DataPass/UserDefault.md",
     "README.md",
     "Internet概述.md",
-    "解析JSON資料.md",
-    "DataPass/利用Struct傳值.md",
-    "DataPass/Datapass by delegate.md",
-    "DataPass/資料傳遞 Segue.md",
-    "Pasted image 20211012114227.png",
-    "解析JSON資料檔.md",
-    "PageChange/dissmiss.md",
-    "Example Photo/Pasted image 20210927145530.png"
+    "解析JSON資料.md"
   ]
 }

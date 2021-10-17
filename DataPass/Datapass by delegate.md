@@ -7,9 +7,9 @@
 
 //此處為將代理權轉給另一個ViewController，讓下一個ViewController能夠操作（Ex:傳遞資料)
 [@IBSegueAction]func showSelectAnimal(_ coder: NSCoder) -> SelectAnimalViewController? {  
-let selectAnimalViewController = SelectAnimalViewController(coder: coder)  
-**selectAnimalViewController?.delegate = self  
-**return selectAnimalViewController  
+	let selectAnimalViewController = SelectAnimalViewController(coder: coder)  
+		selectAnimalViewController?.delegate = self  
+		return selectAnimalViewController  
 }
 
 

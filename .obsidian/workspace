@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "internet/上傳資料.md",
+            "file": "Property/Computed property.md",
             "mode": "source"
           }
         }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "property observer",
+                "query": "get",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "internet/上傳資料.md",
+                "file": "Property/Computed property.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +122,8 @@
   },
   "active": "44d64478c8ea624b",
   "lastOpenFiles": [
+    "Property/Computed property.md",
+    "Property/Property observer.md",
     "internet/上傳資料.md",
     "未命名.md",
     "Property/*Property observer.md",
@@ -128,8 +131,6 @@
     "Data Save/UserDefault property.md",
     "DataPass/概述.md",
     "internet/*WebSocket.md",
-    "internet/Download Data.md",
-    "internet/Internet相關.md",
-    "internet/Internet相關 1.md"
+    "internet/Download Data.md"
   ]
 }

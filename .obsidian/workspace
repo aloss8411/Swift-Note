@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Save/UserDefault property.md",
+            "file": "UUID.md",
             "mode": "source"
           }
         }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "userd",
+                "query": "property observer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Save/UserDefault property.md",
+                "file": "UUID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,15 +121,15 @@
   },
   "active": "245dfb55122a6815",
   "lastOpenFiles": [
+    "未命名.md",
+    "Property/*Property observer.md",
+    "Codable.md",
+    "internet/上傳資料.md",
     "Data Save/UserDefault property.md",
     "DataPass/概述.md",
-    "internet/上傳資料.md",
     "internet/*WebSocket.md",
     "internet/Download Data.md",
     "internet/Internet相關.md",
-    "internet/Internet相關 1.md",
-    "internet/JSONDecoder.md",
-    "internet/Thread.md",
-    "internet/URLSeisson , URLRequest.md"
+    "internet/Internet相關 1.md"
   ]
 }

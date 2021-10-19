@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "概念/Reference Cycle.md",
+            "file": "internet/上傳資料.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "245dfb55122a6815",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Data Save/UserDefault property.md",
             "mode": "source"
           }
         }
@@ -39,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "capture list",
+                "query": "userd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "概念/Reference Cycle.md",
+                "file": "Data Save/UserDefault property.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,19 +117,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 242.5,
+    "collapsed": true
   },
-  "active": "44d64478c8ea624b",
+  "active": "245dfb55122a6815",
   "lastOpenFiles": [
-    "概念/Reference Cycle.md",
-    "概念/ARC -> Automatic Reference Counting.md",
-    "DataPass/prepare.md",
-    "DataPass/Datapass by delegate.md",
-    "DataPass/Data Pass 概述.md",
-    "DataPass/資料傳遞 Segue.md",
-    "DataPass/instantiateViewController.md",
-    "DataPass/Navigation Controller.md",
-    "DataPass/UserDefault.md",
-    "README.md"
+    "Data Save/UserDefault property.md",
+    "DataPass/概述.md",
+    "internet/上傳資料.md",
+    "internet/*WebSocket.md",
+    "internet/Download Data.md",
+    "internet/Internet相關.md",
+    "internet/Internet相關 1.md",
+    "internet/JSONDecoder.md",
+    "internet/Thread.md",
+    "internet/URLSeisson , URLRequest.md"
   ]
 }

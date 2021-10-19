@@ -32,5 +32,4 @@ https://medium.com/彼得潘的-swift-ios-app-開發問題解答集/userdefaults
 - 參考解說：https://medium.com/彼得潘的-swift-ios-app-開發問題解答集/ios-app-如何產生獨一無二的-id-a1facb7377d3
 
 
-#todo
-- [x] 從56頁開始 -> 資料儲存
+重複的key可利用set將資料覆寫。

@@ -9,18 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Property/Computed property.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "245dfb55122a6815",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "property list.md",
+            "file": "MYSQL.md",
             "mode": "source"
           }
         }
@@ -59,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Property/Computed property.md",
+                "file": "MYSQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +105,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 242.5
   },
   "active": "44d64478c8ea624b",
   "lastOpenFiles": [
+    "未命名.md",
     "Property/Computed property.md",
     "Property/Property observer.md",
     "internet/上傳資料.md",
-    "未命名.md",
     "Property/*Property observer.md",
     "Codable.md",
     "Data Save/UserDefault property.md",

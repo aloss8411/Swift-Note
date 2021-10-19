@@ -1,3 +1,3 @@
 可放置一些常用的物件或選項，例如說建立起menu
 
-利用property list
+利用propertyListDecoder來解析plist

@@ -109,6 +109,7 @@
   },
   "active": "44d64478c8ea624b",
   "lastOpenFiles": [
+    "MYSQL.md",
     "未命名.md",
     "Property/Computed property.md",
     "Property/Property observer.md",
@@ -117,7 +118,6 @@
     "Codable.md",
     "Data Save/UserDefault property.md",
     "DataPass/概述.md",
-    "internet/*WebSocket.md",
-    "internet/Download Data.md"
+    "internet/*WebSocket.md"
   ]
 }

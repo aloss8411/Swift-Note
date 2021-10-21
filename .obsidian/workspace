@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "property list.md",
+            "file": "P.list.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "property list.md",
+                "file": "P.list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,11 +109,11 @@
   },
   "active": "44d64478c8ea624b",
   "lastOpenFiles": [
+    "未命名.md",
     "property list.md",
     "README.md",
     "UUID.md",
     "MYSQL.md",
-    "未命名.md",
     "Property/Computed property.md",
     "Property/Property observer.md",
     "internet/上傳資料.md",

@@ -32,3 +32,84 @@ https://medium.com/彼得潘的-swift-ios-app-開發問題解答集/定義-contr
 
 
 Unwind Sugue傳遞資料以及Delegate傳遞資料
+
+示範Code：
+
+傳值頁：
+      
+
+import UIKit
+>建立起Protocol
+protocol FetchTextDelegate {
+
+ func fetchText(_ text: String)
+
+}
+
+
+ 
+class FirstViewController: UIViewController {
+
+ var delegate: FetchTextDelegate?
+
+ var secondVC = UIStoryboard(name: "Main", bundle: nil).instantiateViewController(withIdentifier: "SecondVC")  as! SecondViewController
+
+  
+
+ @IBOutlet weak var inputTextfield: UITextField!
+
+  
+
+ @IBAction func btnSend(_ sender: UIButton) {
+
+  
+
+ self.present(secondVC, animated: true, completion: nil)
+>傳值並設定delegate目的地
+
+ self.delegate = secondVC
+
+>將資料傳過去，意味著這邊傳值
+>
+ self.delegate?.fetchText(inputTextfield.text!)
+
+  
+
+ }
+
+  
+
+}
+接收頁：
+
+      
+
+import UIKit
+
+  
+
+class SecondViewController: UIViewController {
+
+ @IBOutlet weak var displayTextview: UITextView!
+
+ @IBAction func btnBack(_ sender: UIButton) {
+
+ self.dismiss(animated: true, completion: nil)
+
+ }
+
+  
+
+}
+
+  
+
+extension SecondViewController: FetchTextDelegate {
+
+ func fetchText(_ text: String) {
+
+ displayTextview.text = text
+
+ }
+
+}

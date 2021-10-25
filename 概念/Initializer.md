@@ -124,3 +124,11 @@ class Student: Person {
 • 呼叫父類別的 init,初始父類別裡宣告的 property 的內容
 • 要先初始自己的 property 再呼叫 super.init
 - 原因是：要從父類別 Person 初始 name 的內容,因為 name 在父類別宣告
+
+
+
+init應用：
+
+#init(arrayLiteral:)  //從已經被建立的陣列創造新陣列
+
+Creates an array from the given array literal.

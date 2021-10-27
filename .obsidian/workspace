@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RESTful.md",
+            "file": "seletor.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "REST",
+                "query": "#selector",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RESTful.md",
+                "file": "seletor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +109,7 @@
   },
   "active": "44d64478c8ea624b",
   "lastOpenFiles": [
+    "seletor.md",
     "RESTful.md",
     "internet/上傳資料.md",
     "Property/*Dictionary.md",
@@ -117,7 +118,6 @@
     "Internet概述.md",
     "概念/P.list.md",
     "MYSQL.md",
-    "概念/property list.md",
-    "概念/Initializer.md"
+    "概念/property list.md"
   ]
 }

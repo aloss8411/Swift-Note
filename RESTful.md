@@ -39,3 +39,7 @@ RESTful API 主要由三種元件組成：
 
 6. 充份利用 HTTP protocal(GET/POST/PUT/DELETE) (Manipulation of resources through representations)
 7. 7. 可執行程式碼的設計，像是 JavaScript（非必要實作項目） Code-On-Demand (optional)
+
+
+只要能串接統一的底層URL入口，並利用泛型解決JSON Data to Model的轉換，亦可以結合 PromiseKit 與 Alamofire，製作屬於你的非同步 API 網路應用。
+

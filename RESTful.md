@@ -48,3 +48,8 @@ RESTful API 主要由三種元件組成：
 
 HTTP method  = RESTful API
 HTTPbody內放入要上傳的資料
+
+URLSession.shared.uploadTask -> 另一種寫法
+	->直接將data寫在函式內，不用另外寫入HTTPbody
+	
+不管是哪一個動作，都會有Response，可從Status Code來找出是否成功，並print出response.

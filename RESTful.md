@@ -57,3 +57,5 @@ URLSession.shared.uploadTask -> 另一種寫法
 	
 不管是哪一個動作，都會有Response，可從Status Code來找出是否成功，並print出response.
 
+
+另外上述可以使用<泛型>來精簡程式碼

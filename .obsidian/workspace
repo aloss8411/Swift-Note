@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CachePolicy.md",
+            "file": "RESTful.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 232.5,
+    "collapsed": true
   },
   "right": {
     "id": "2abdc68ee3d48912",
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CachePolicy.md",
+                "file": "RESTful.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,14 +106,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 242.5,
+    "collapsed": true
   },
   "active": "44d64478c8ea624b",
   "lastOpenFiles": [
+    "RESTful.md",
     "CachePolicy.md",
     "單獨生成View Controller.md",
     "解析JSON資料.md",
-    "RESTful.md",
     "seletor.md",
     "internet/上傳資料.md",
     "Property/*Dictionary.md",

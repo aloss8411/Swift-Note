@@ -43,3 +43,8 @@ RESTful API 主要由三種元件組成：
 
 只要能串接統一的底層URL入口，並利用泛型解決JSON Data to Model的轉換，亦可以結合 PromiseKit 與 Alamofire，製作屬於你的非同步 API 網路應用。
 
+
+上傳資料：
+
+HTTP method  = RESTful API
+HTTPbody內放入要上傳的資料

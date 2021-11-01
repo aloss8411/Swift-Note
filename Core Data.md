@@ -44,3 +44,7 @@ Attribute (屬性)
 
 
 NSpersistentContainer
+
+
+如何部分搜尋CoreData裡面的資料
+https://nspredicate.xyz/#contains-certain-string

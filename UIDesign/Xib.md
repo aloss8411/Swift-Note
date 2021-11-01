@@ -29,3 +29,7 @@ DemoViewController()
 (2) 如果 (1) 找不到，它將尋找同名的 xib。比方 LoveSongController 將找尋 LoveSongController.xib。
 
 如果 (1) & (2) 都找不到，才表示此時生成的 controller 沒有搭配的 xib，畫面得完全從程式製作
+
+
+建立好Xib後如何加入：
+利用Bundle.main.loadNibNamed 

@@ -33,4 +33,5 @@ DemoViewController()
 
 建立好Xib後如何加入：
 利用Bundle.main.loadNibNamed ->會將Xib檔案中的畫面變成array傳回，然後再利用View.addsubView控制
-也可另外
+也可另外建立CocoaPods，並掛名於其中一個ViewController，則可在ViewController中控制。
+

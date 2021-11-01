@@ -33,3 +33,4 @@ DemoViewController()
 
 建立好Xib後如何加入：
 利用Bundle.main.loadNibNamed ->會將Xib檔案中的畫面變成array傳回，然後再利用View.addsubView控制
+也可另外

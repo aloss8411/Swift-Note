@@ -43,4 +43,4 @@ Attribute (屬性)
 是一個中介的角色，處於Managed Object Model與Persistent Store之間，負責處理資料的讀取與寫入。Persistent Store是實際將資料儲存的地方，是iOS內建的SQLite資料庫。目前自己所知道的Persistent Store儲存方式有四種，分別為：
 
 
-persistentContainer
+NSpersistentContainer

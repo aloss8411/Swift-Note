@@ -9,29 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "UIDesign/Xib.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "4e24897463e58841",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Internet概述.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "8d82ca8be24079d9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "單獨生成View Controller.md",
+            "file": "CollectionView.md",
             "mode": "source"
           }
         }
@@ -61,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "xib",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "單獨生成View Controller.md",
+                "file": "CollectionView.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,17 +107,17 @@
     "direction": "horizontal",
     "width": 242.5
   },
-  "active": "8d82ca8be24079d9",
+  "active": "44d64478c8ea624b",
   "lastOpenFiles": [
+    "CollectionView.md",
+    "UIDesign/Xib.md",
     "單獨生成View Controller.md",
     "Internet概述.md",
-    "UIDesign/Xib.md",
     "swift高級語法.md",
     "Core Data.md",
     "定位功能.md",
     "待學習/*Lazy.md",
     "概念/*GCD 多執行緒 Grand Central Dispatch.md",
-    "語法/@escaping.md",
-    "RESTful.md"
+    "語法/@escaping.md"
   ]
 }

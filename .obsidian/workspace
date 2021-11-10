@@ -7,8 +7,11 @@
         "id": "44d64478c8ea624b",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "UIDesign/*提示框 UIAlertController.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "list",
+                "query": "alert",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "UIDesign/*提示框 UIAlertController.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
   },
   "active": "44d64478c8ea624b",
   "lastOpenFiles": [
+    "UIDesign/*提示框 UIAlertController.md",
     "概念/P.list.md",
     "CollectionView.md",
     "UIDesign/Xib.md",
@@ -114,7 +119,6 @@
     "swift高級語法.md",
     "Core Data.md",
     "定位功能.md",
-    "待學習/*Lazy.md",
-    "概念/*GCD 多執行緒 Grand Central Dispatch.md"
+    "待學習/*Lazy.md"
   ]
 }

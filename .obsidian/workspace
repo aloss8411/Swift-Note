@@ -7,11 +7,8 @@
         "id": "44d64478c8ea624b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "概念/P.list.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "概念/P.list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",

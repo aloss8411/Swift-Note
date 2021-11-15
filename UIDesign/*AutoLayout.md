@@ -8,6 +8,8 @@ Portrait ,Landscape 都完美呈現
 
 •Size可解決上述情況
 
+按住Options ->按住為有間距的清單
+
 
 Aspect Ratio -> 比例，可調整自身比例或兩相關物件比例
 

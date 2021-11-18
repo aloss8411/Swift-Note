@@ -9,68 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "概念/Delegate.md",
+            "file": "語法/Array.md",
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "bae9898aa2df95d5",
-        "type": "split",
-        "children": [
-          {
-            "id": "e888f28638590ce5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "概念/SOLID 原則.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "9c583ceb7e1864ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "概念/Class vs Struct.md",
-                "mode": "source"
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "33a8b30cfec6eed4",
-        "type": "split",
-        "children": [
-          {
-            "id": "4e546c3c3d39a3ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "實作方法/調整Image大小.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "e0c45881f264c5f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "實作方法/Side Menu.md",
-                "mode": "source"
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -134,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "實作方法/調整Image大小.md",
+                "file": "語法/Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,17 +107,17 @@
     "direction": "horizontal",
     "width": 242.5
   },
-  "active": "4e546c3c3d39a3ca",
+  "active": "44d64478c8ea624b",
   "lastOpenFiles": [
-    "實作方法/調整Image大小.md",
-    "實作方法/Side Menu.md",
-    "概念/Class vs Struct.md",
-    "概念/SOLID 原則.md",
-    "概念/Delegate.md",
-    "概念/P.list.md",
-    "Property/關於型別屬性 generic   -> 泛型.md",
-    "Property/Typealias.md",
+    "語法/Array.md",
+    "語法/enum.md",
+    "語法/Closure.md",
+    "語法/addAction.md",
     "語法/*Tuple.md",
-    "RESTful.md"
+    "概念/Delegate.md",
+    "實作方法/Side Menu.md",
+    "待學習/*IBInspectable.md",
+    "待學習/*Lazy.md",
+    "實作方法/調整Image大小.md"
   ]
 }

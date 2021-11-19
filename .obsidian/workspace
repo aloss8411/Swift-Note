@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "語法/Array.md",
+            "file": "DataPass/資料傳遞 Segue.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "語法/Array.md",
+                "file": "DataPass/資料傳遞 Segue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "44d64478c8ea624b",
   "lastOpenFiles": [
+    "DataPass/資料傳遞 Segue.md",
+    "DataPass/instantiateViewController.md",
+    "DataPass/Data Pass 概述.md",
+    "DataPass/prepare.md",
+    "DataPass/Navigation Controller.md",
+    "DataPass/UserDefault.md",
     "語法/Array.md",
     "語法/enum.md",
     "語法/Closure.md",
-    "語法/addAction.md",
-    "語法/*Tuple.md",
-    "概念/Delegate.md",
-    "實作方法/Side Menu.md",
-    "待學習/*IBInspectable.md",
-    "待學習/*Lazy.md",
-    "實作方法/調整Image大小.md"
+    "語法/addAction.md"
   ]
 }

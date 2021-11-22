@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "概念/Class vs Struct.md",
+            "file": "概念/Initializer.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "init",
+                "query": "initializer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "概念/Class vs Struct.md",
+                "file": "概念/Initializer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +110,7 @@
   },
   "active": "44d64478c8ea624b",
   "lastOpenFiles": [
+    "概念/Initializer.md",
     "概念/Class vs Struct.md",
     "語法/Array.md",
     "Property/*Dictionary.md",
@@ -118,7 +119,6 @@
     "DataPass/instantiateViewController.md",
     "DataPass/Data Pass 概述.md",
     "DataPass/prepare.md",
-    "DataPass/Navigation Controller.md",
-    "DataPass/UserDefault.md"
+    "DataPass/Navigation Controller.md"
   ]
 }

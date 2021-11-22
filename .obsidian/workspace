@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DataPass/利用Struct傳值.md",
+            "file": "DataPass/prepare.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataPass/利用Struct傳值.md",
+                "file": "DataPass/prepare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,11 +109,11 @@
   },
   "active": "44d64478c8ea624b",
   "lastOpenFiles": [
+    "DataPass/prepare.md",
     "DataPass/利用Struct傳值.md",
     "DataPass/Data Pass 概述.md",
     "DataPass/Datapass by delegate.md",
     "DataPass/instantiateViewController.md",
-    "DataPass/prepare.md",
     "DataPass/UserDefault.md",
     "概念/Initializer.md",
     "概念/Class vs Struct.md",

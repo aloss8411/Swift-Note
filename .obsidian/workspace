@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "語法/Array.md",
+            "file": "概念/Class vs Struct.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "array",
+                "query": "init",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "語法/Array.md",
+                "file": "概念/Class vs Struct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +110,7 @@
   },
   "active": "44d64478c8ea624b",
   "lastOpenFiles": [
+    "概念/Class vs Struct.md",
     "語法/Array.md",
     "Property/*Dictionary.md",
     "DataPass/Datapass by delegate.md",
@@ -118,7 +119,6 @@
     "DataPass/Data Pass 概述.md",
     "DataPass/prepare.md",
     "DataPass/Navigation Controller.md",
-    "DataPass/UserDefault.md",
-    "語法/enum.md"
+    "DataPass/UserDefault.md"
   ]
 }

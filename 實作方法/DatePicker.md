@@ -20,4 +20,6 @@ let choseDay = Calendar.current.date(byAdding: .day, value: indexPath.row, to: d
 ·to: 開始的時間點
 ·wrappingcomponents : 是否只計算byAdding的時間，Ex:都是天的話則不改變月份.. 
 
+![[Pasted image 20211123114638.png]]
+
 

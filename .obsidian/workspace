@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Core Data.md",
+            "file": "internet/URLSeisson , URLRequest.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Core",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -77,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core Data.md",
+                "file": "internet/URLSeisson , URLRequest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +109,7 @@
   },
   "active": "44d64478c8ea624b",
   "lastOpenFiles": [
+    "internet/URLSeisson , URLRequest.md",
     "Core Data.md",
     "實作方法/DatePicker.md",
     "概念/Initializer.md",
@@ -118,7 +118,6 @@
     "DataPass/Data Pass 概述.md",
     "DataPass/Datapass by delegate.md",
     "DataPass/instantiateViewController.md",
-    "DataPass/UserDefault.md",
-    "概念/Class vs Struct.md"
+    "DataPass/UserDefault.md"
   ]
 }

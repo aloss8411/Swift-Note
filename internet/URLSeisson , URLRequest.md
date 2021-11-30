@@ -55,3 +55,10 @@ https://developer.apple.com/documentation/foundation/nsurlrequest/cachepolicy
 
 · reloadIgnoringCacheData(重新抓取)
 · returnCacheDataElseLoad (讀取暫存的資料,若無暫存則重抓)
+
+API key 通常透過以下 3 種方法帶在 request 裡:
+
+-   帶在網址的 query 字串
+-   帶在 HTTP header。
+-   搭配雜湊演算法讓 API key 更安全
+

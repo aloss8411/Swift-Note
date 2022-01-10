@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "利用SWIFTUI來預覽程式.md",
-            "mode": "source"
+            "file": "語法/@escaping.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -39,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obser",
+                "query": "esca",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -76,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "利用SWIFTUI來預覽程式.md",
+                "file": "語法/@escaping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +111,7 @@
   },
   "active": "44d64478c8ea624b",
   "lastOpenFiles": [
+    "語法/@escaping.md",
     "利用SWIFTUI來預覽程式.md",
     "UIDesign/*UIView.md",
     "未命名.md",
@@ -117,7 +120,6 @@
     "UIDesign/UUID-照片辨識碼處理.md",
     "概念/ViewController & App - life circle.md",
     "概念/Static.md",
-    "概念/SOLID 原則.md",
-    "概念/property list.md"
+    "概念/SOLID 原則.md"
   ]
 }

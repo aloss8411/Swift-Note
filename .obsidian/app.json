@@ -1,5 +1,7 @@
 {
   "promptDelete": false,
   "fileSortOrder": "alphabeticalReverse",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "legacyEditor": false,
+  "livePreview": true
 }

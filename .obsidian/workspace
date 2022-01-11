@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CADisplayLink定时器.md",
+            "file": "Design Pattern/整理.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "esca",
+                "query": "search",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CADisplayLink定时器.md",
+                "file": "Design Pattern/整理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,15 +110,15 @@
   },
   "active": "44d64478c8ea624b",
   "lastOpenFiles": [
+    "Design Pattern/整理.md",
+    "Design Pattern/MVC , MVVM.md",
+    "UIDesign/UIResearcher.md",
+    "未命名.md",
     "CADisplayLink定时器.md",
     "流水動畫程式碼.md",
     "URL的結構組成.md",
     "internet/RESTful.md",
     "README.md",
-    "swift高級語法.md",
-    "語法/@escaping.md",
-    "利用SWIFTUI來預覽程式.md",
-    "UIDesign/*UIView.md",
-    "Property/Property observer.md"
+    "swift高級語法.md"
   ]
 }
